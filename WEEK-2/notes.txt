@@ -1,0 +1,16 @@
+- Built-in functions
+    - print(), len(), max(), min(), input(), round(), abs(), dir(), str()
+- Data types
+    - Numbers(Int, Float, Complex)
+    - Booleans(True/False)
+    - Strings
+    - List
+    - Set
+    - Tuples
+    - Dictionary
+- Operators
+    - Assignment
+    - Arithmetic
+    - Comparison
+    - Logical
+- Strings
